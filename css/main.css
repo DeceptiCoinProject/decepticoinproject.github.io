@@ -298,28 +298,3 @@ img{
   right:0;
   margin:0 auto
 }
-
-/* follow me @nodws */
-#btn-twtr{
-  clear:both;
-  color:#fff;
-  border:2px solid;
-  border-radius:3px;
-  text-align:center;
-  text-decoration:none;
-  display:block;
-  font-family:VT323;
-  font-size:38px;
-  width:6em;
-  padding:5px 10px;
-  font-weight:600;
-  position:absolute;
-  top:0;
-  left:0;
-  right:0;
-  margin:75vh auto;
-  background:rgba(0,0,0,0.2);
-  box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
-  opacity:0.3
-}#btn-twtr:hover{color:#fff;opacity:1}
-
