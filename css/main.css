@@ -279,8 +279,6 @@ ul.posts li {
   position: relative;
   display: inline-block;
   opacity: 0.8;
-  width: 822px;
-  height: 462px;
   &:after{
     content: '';
     position: absolute;
@@ -294,7 +292,7 @@ ul.posts li {
 }
 img{
   width:100%;
-  max-width:350px;
+  max-width:700px;
   position:absolute;
   top:20%;
   left:0;
@@ -312,7 +310,7 @@ img{
   text-decoration:none;
   display:block;
   font-family:VT323;
-  font-size:78px;
+  font-size:38px;
   width:6em;
   padding:5px 10px;
   font-weight:600;
