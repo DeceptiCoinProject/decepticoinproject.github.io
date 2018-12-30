@@ -7,10 +7,10 @@ body {
 /** Nav Smellon **/
 .navbar {
   font-family: "VT323", sans-serif;
-  text-size: 25px;
+  text-size: 23px;
   overflow: hidden;
   position: fixed;
-  line-height: 150%;
+  line-height: 180%;
   bottom: 4%;
 }
 .navbar a {
@@ -236,7 +236,7 @@ body {
 
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 90%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
