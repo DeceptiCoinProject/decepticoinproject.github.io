@@ -275,3 +275,54 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.headbox{
+  position: relative;
+  display: inline-block;
+  opacity: 0.8;
+  width: 822px;
+  height: 462px;
+  &:after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 80px;
+    right: 80px;
+    height: 462px;
+    box-shadow: 0 0 0 rgba(#000, 0.4);
+  }
+}
+img{
+  width:100%;
+  max-width:350px;
+  position:absolute;
+  top:20%;
+  left:0;
+  right:0;
+  margin:0 auto
+}
+
+/* follow me @nodws */
+#btn-twtr{
+  clear:both;
+  color:#fff;
+  border:2px solid;
+  border-radius:3px;
+  text-align:center;
+  text-decoration:none;
+  display:block;
+  font-family:VT323;
+  font-size:78px;
+  width:6em;
+  padding:5px 10px;
+  font-weight:600;
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  margin:75vh auto;
+  background:rgba(0,0,0,0.2);
+  box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
+  opacity:0.3
+}#btn-twtr:hover{color:#fff;opacity:1}
+
