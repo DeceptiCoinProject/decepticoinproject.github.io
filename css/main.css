@@ -1,3 +1,8 @@
+/** body **/
+body {
+  background-color: #010101;
+  color: #f1f1f1f;
+}
 /** Nav Smellon **/
 .navbar {
   font-family: "VT323", sans-serif;
