@@ -29,14 +29,14 @@ body {
   display: flex;
   font-family: "VT323", sans-serif;
   color: white;
-  font-size: 20px;
+  font-size: 30px;
   text-transform: upercase;
   position: relative;
   display: inline-block;
 }
 .glitch-m:hover {
   color: white;
-  font-size: 25px;
+  font-size: 35px;
   text-transform: upercase;
   position: relative;
   display: inline-block;
