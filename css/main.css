@@ -7,6 +7,7 @@ body {
 /** Nav Smellon **/
 .navbar {
   font-family: "VT323", sans-serif;
+  text-size: 25px;
   overflow: hidden;
   position: fixed;
   line-height: 150%;
@@ -18,7 +19,7 @@ body {
   text-decoration: none;
 }
 .navbar a:active {
-  text-size: 12px;
+  text-size: 30px;
 }
 .sticky {
   position: fixed;
