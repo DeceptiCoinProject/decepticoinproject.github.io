@@ -276,6 +276,8 @@ ul.posts li {
   position: relative;
   display: inline-block;
   opacity: 0.8;
+   width: 822px;
+  height: 562px;
   &:after{
     content: '';
     position: absolute;
